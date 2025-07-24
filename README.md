@@ -82,6 +82,23 @@
 
 ---
 
-## 🔜 Coming Soon!!
+---
 
+## 🧪 Local Dev: Quickstart Guide
+
+Want to check things out locally? Super easy.
+
+```bash
+# 1. Clone the repo (if you haven’t already)
+git clone https://github.com/your-username/your-project.git
+cd your-project
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the frontend dev server
+npm run dev:client
+
+## 🔜 Coming Soon!!
+```
 > Backend magic and full-stack glory — stay tuned! 🎉
