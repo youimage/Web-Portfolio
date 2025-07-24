@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "ModernShop E-commerce",
+    "description": "A complete e-commerce platform redesign focusing on user experience and conversion optimization. Features include intuitive navigation, advanced filtering, and seamless checkout process.",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600",
+    "tags": ["UI/UX Design", "React", "Shopify"],
+    "link": "https://modernshop-demo.example.com"
+  },
+  {
+    "id": 2,
+    "title": "Analytics Pro Dashboard",
+    "description": "A comprehensive analytics dashboard for SaaS companies. Clean data visualization, real-time updates, and intuitive user interface for complex data sets.",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600",
+    "tags": ["Dashboard Design", "Data Viz", "React"],
+    "link": "https://analytics-pro-demo.example.com"
+  },
+  {
+    "id": 3,
+    "title": "FitTracker Mobile App",
+    "description": "A fitness tracking mobile app with personalized workouts, progress tracking, and social features. Focus on motivation and user engagement through gamification.",
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600",
+    "tags": ["Mobile Design", "UI/UX", "Prototyping"],
+    "link": "https://fittracker-demo.example.com"
+  },
+  {
+    "id": 4,
+    "title": "GreenTech Brand Identity",
+    "description": "Complete brand identity design for a sustainable technology startup. Logo design, color palette, typography, and brand guidelines for consistent application.",
+    "image": "https://images.unsplash.com/photo-1541462608143-67571c6738dd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600",
+    "tags": ["Brand Design", "Logo Design", "Print Design"],
+    "link": "https://greentech-identity.example.com"
+  },
+  {
+    "id": 5,
+    "title": "Bella Vista Restaurant",
+    "description": "Elegant restaurant website featuring online reservations, menu showcase, and event booking. Photography-focused design that highlights the culinary experience.",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600",
+    "tags": ["Web Design", "WordPress", "Photography"],
+    "link": "https://bellavista-demo.example.com"
+  },
+  {
+    "id": 6,
+    "title": "Creative Portfolio Site",
+    "description": "Personal portfolio website for a creative director. Minimal design approach with focus on showcasing work through interactive galleries and smooth animations.",
+    "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600",
+    "tags": ["Portfolio Design", "Animation", "Webflow"],
+    "link": "https://creative-portfolio-demo.example.com"
+  }
+]
