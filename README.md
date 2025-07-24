@@ -98,7 +98,9 @@ npm install
 
 # 3. Start the frontend dev server
 npm run dev:client
+```
+
 
 ## 🔜 Coming Soon!!
-```
+
 > Backend magic and full-stack glory — stay tuned! 🎉
