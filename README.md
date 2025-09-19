@@ -48,7 +48,7 @@
 
 ## 🔄 Data Flow
 
-### ✅ Frontend State (implemented)
+### ☑ Frontend State (implemented)
 - TanStack Query for all API stuff
 - Custom hooks for fetching
 - Toasts to show what’s happening
